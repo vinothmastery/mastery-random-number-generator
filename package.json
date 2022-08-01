@@ -1,6 +1,6 @@
 {
   "name": "mastery-random-number-generator",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Random Number Generator",
   "main": "index.js",
   "type": "module",
