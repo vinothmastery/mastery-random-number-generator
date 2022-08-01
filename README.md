@@ -9,9 +9,10 @@ Run `npm i mastery-random-number-generator`
 Use:
 
 ```
-import mrn from 'mastery-random-number-generator'
+import {randomNumber, randomColor} from 'mastery-random-number-generator'
 
-mrn(8, 5);
+randomNumber(8, 5);
+randomColor();
 ```
 
 ## Parameters
